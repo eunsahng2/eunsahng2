@@ -1,6 +1,8 @@
 # eunsahng2
 I make characters on ai chatting sites.
 
+These repositories are for storing `character description html files` and `images`.
+
 <!--
 **eunsahng2/eunsahng2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-link:
+### link:
 - [Caveduck](https://caveduck.io/user/Krypton)
 - [zeta](https://zeta-ai.io/ko/creators/53b00067-9129-421f-b4b9-313c3c351a32/profile?share_id=lp1wm0fh9)
 - [크랙(뤼튼)](https://share.crack.wrtn.ai/ztfx8m)
