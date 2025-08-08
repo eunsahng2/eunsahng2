@@ -1,8 +1,3 @@
-# eunsahng2
-I make characters on ai chatting sites.
-
-These repositories are for storing `character description html files` and `images`.
-
 <!--
 **eunsahng2/eunsahng2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
